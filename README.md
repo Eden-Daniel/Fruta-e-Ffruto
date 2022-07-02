@@ -1,2 +1,2 @@
-# Fruta & Ffruto
- Projeto desenvolvido durante o curso de Arquitetura CSS
+# arquitetura-css
+curso de arquitetura da Alura. 
